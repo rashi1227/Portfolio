@@ -40,7 +40,7 @@ export default function SectionLetsConnect() {
             width: 168,
             height: 168,
             tabIndex: 0,
-            onClick: () => window.open('https://instagram.com/deri561', '_blank'),
+            onClick: () => window.open('https://instagram.com/__rashi_23', '_blank'),
         },
         {
             initial: { y: -50, opacity: 0 },
@@ -66,7 +66,7 @@ export default function SectionLetsConnect() {
             width: 168,
             height: 168,
             tabIndex: 0,
-            onClick: () => window.open('https://dribbble.com/deri-kurniawan', '_blank')
+            onClick: () => window.open('https://dribbble.com/_rashi12', '_blank')
         },
         {
             initial: { y: 100, opacity: 0 },

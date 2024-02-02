@@ -15,35 +15,33 @@ const technologyStack = [
         officialSite: 'https://nextjs.org/',
     },
     {
-        name: 'Laravel',
-        image: assets.home.technologyStack.laravel,
-        officialSite: 'https://laravel.com/',
-    },
-    {
-        name: 'Expo',
-        image: assets.home.technologyStack.expo,
-        officialSite: 'https://expo.dev/',
-    },
-    {
-        name: 'Prisma',
-        image: assets.home.technologyStack.prisma,
-        officialSite: 'https://www.prisma.io/',
-    },
-    {
         name: "Express JS",
         image: assets.home.technologyStack.expressJs,
         officialSite: 'https://expressjs.com/',
     },
     {
-        name: "Planet Scale",
-        image: assets.home.technologyStack.planetScale,
-        officialSite: 'https://planetscale.com/',
-    },
-    {
-        name: "Javascript",
+       name: "Javascript",
         image: assets.home.technologyStack.javascript,
         officialSite: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript',
     },
+    {
+        name: 'Node Js',
+        image: assets.home.technologyStack.prisma,
+        officialSite: 'https://nodejs.org/en/',
+    },
+    {
+        name: 'C++',
+        image: assets.home.technologyStack.laravel,
+        officialSite: 'https://cplusplus.com'
+
+    },
+   
+    {
+        name: "HTML",
+        image: assets.home.technologyStack.planetScale,
+        officialSite: 'https://html.com/',
+    },
+    
     {
         name: "React JS",
         image: assets.home.technologyStack.reactJs,
